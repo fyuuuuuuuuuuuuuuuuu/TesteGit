@@ -1,0 +1,9 @@
+C:\Users\2114070010\Documents\Codigo_console\Primeira_classe\Primeira_classe\bin\Debug\Primeira_classe.exe.config
+C:\Users\2114070010\Documents\Codigo_console\Primeira_classe\Primeira_classe\bin\Debug\Primeira_classe.exe
+C:\Users\2114070010\Documents\Codigo_console\Primeira_classe\Primeira_classe\bin\Debug\Primeira_classe.pdb
+C:\Users\2114070010\Documents\Codigo_console\Primeira_classe\Primeira_classe\obj\Debug\Primeira_classe.csprojResolveAssemblyReference.cache
+C:\Users\2114070010\Documents\Codigo_console\Primeira_classe\Primeira_classe\obj\Debug\Primeira_classe.exe
+C:\Users\2114070010\Documents\Codigo_console\Primeira_classe\Primeira_classe\obj\Debug\Primeira_classe.pdb
+C:\Users\2114070010\Documents\Codigo_console\Aula14 do 03\Primeira_classe\Primeira_classe\bin\Debug\Primeira_classe.exe.config
+C:\Users\2114070010\Documents\Codigo_console\Aula14 do 03\Primeira_classe\Primeira_classe\obj\Debug\Primeira_classe.exe
+C:\Users\2114070010\Documents\Codigo_console\Aula14 do 03\Primeira_classe\Primeira_classe\obj\Debug\Primeira_classe.pdb
