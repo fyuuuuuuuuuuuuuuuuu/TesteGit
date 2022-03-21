@@ -1,0 +1,12 @@
+C:\Users\2114070010\Documents\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\bin\Debug\CarroCompleto.exe.config
+C:\Users\2114070010\Documents\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\bin\Debug\CarroCompleto.exe
+C:\Users\2114070010\Documents\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\bin\Debug\CarroCompleto.pdb
+C:\Users\2114070010\Documents\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\obj\Debug\CarroCompleto.csprojResolveAssemblyReference.cache
+C:\Users\2114070010\Documents\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\obj\Debug\CarroCompleto.exe
+C:\Users\2114070010\Documents\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\obj\Debug\CarroCompleto.pdb
+C:\Users\2114070010\Documents\Aula_orita_Objeto\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\bin\Debug\CarroCompleto.exe.config
+C:\Users\2114070010\Documents\Aula_orita_Objeto\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\obj\Debug\CarroCompleto.exe
+C:\Users\2114070010\Documents\Aula_orita_Objeto\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\obj\Debug\CarroCompleto.pdb
+C:\Users\2114070010\Documents\Aula_orita_Objeto\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\bin\Debug\CarroCompleto.exe
+C:\Users\2114070010\Documents\Aula_orita_Objeto\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\bin\Debug\CarroCompleto.pdb
+C:\Users\2114070010\Documents\Aula_orita_Objeto\Codigo_console\Aula21 do 03\CarroCompleto\CarroCompleto\obj\Debug\CarroCompleto.csprojResolveAssemblyReference.cache
